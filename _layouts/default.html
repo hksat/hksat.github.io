@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
+    <title>{{ page.title }} | {{site.name}}</title>
+    {% seo %}
+    <link href="{{ site.baseurl }}/assets/css/prism.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
+    <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+    <!--<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>-->
+    <style>
+        a:link {color:#8b0000;}      /* 未访问链接*/
+        a:visited {color:#8b0000;}  /* 已访问链接 */
+        a:hover {color:#9acd32;}  /* 鼠标移动到链接上 */
+    </style>
+</head>
+
+{% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
+
+<body>
+    <header>
+        <div class="container">
+            <a class="navbar-brand" href="/">
+                <img src="/assets/images/logo.jpg" alt="logo" style="width:39px;">
+            </a>
+            <span class="navbar-text">
+                <abbr><mark>Yihong's Bolg</mark></abbr>
+            </span>
+        </div>
+    </header>
+
+    <link rel="stylesheet" href="assets/font-awesome/css/font-awesome.min.css">
+
+    <!--
+	<noscript id="deferred-styles">
+		<link href="https://fonts.googleapis.com/css?family=Sen:400,700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+    </noscript>
+    -->
+ 
+    <div class="sidebar"></div>   
+
+    <div class="nav-icon">
+        <div class="hamburger-bar"></div>
+    </div>
+
+    <div id="blackover-nav" class="blackover"></div>
+
+    <nav id="menu">
+        <ul>
+            <h3>Yihong Zhou</h3>
+            <li><a href="{{ site.baseurl }}/">主页</a></li>
+            <li><a href="{{ site.baseurl }}/categories">归档</a></li>  
+            <li><a href="{{ site.baseurl }}/about">关于<span class="badge badge-dark">Yihong</span></a></li> 
+        </ul>   
+    </nav>
+
+    <div class="site-content {% if page.url == '/' %} firstpage {% endif %}">
+
+    <div class="container">
+
+        {% if page.url == '/' %}
+            <p class="sitetag">
+                {{ site.description }}
+            </p>
+        {% endif %}
+
+        <div class="main-content">
+            {{ content }}
+        </div>
+
+    </div>
+
+    <footer class="footer">
+        <div class="container">
+            <nav class="navbar navbar-expand-sm bg-light navbar-light">
+                <div class="col-md-6 col-sm-12 text-center text-lg-left">
+                    Copyright © 9012 - {{ site.time | date: "%Y" }} yh.js.org
+                </div>
+                <!--
+                <div class="col-md-6 col-sm-12 text-center text-lg-right">    
+                    <span id="busuanzi_container_site_pv">本小站被点击<span class="badge badge-success" id="busuanzi_value_site_pv"></span>次了</span>
+                </div>
+                -->
+            </nav>
+        </div>
+    </footer>
+
+    <script src="{{ site.baseurl }}/assets/js/prism.js"></script>
+
+    <script src="{{ site.baseurl }}/assets/js/theme.js"></script>
+
+    {% if site.lazyimages == "enabled" %}
+        <script src="{{ site.baseurl }}/assets/js/lazyload.js"></script>
+    {% endif %}
+
+    {% include share.html %}
+    
+    <!--
+    {% include search-lunr.html %}
+    -->
+
+</body>
+</html>
