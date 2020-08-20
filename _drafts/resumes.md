@@ -9,7 +9,7 @@ title:  "个人中标项目统计"
 #beforetoc: "人工智能政策 && 开设人工智能专业的高校名单. "
 toc: true
 rating: 5                  #等级-评分
-permalink: zyhzb            #固定链接，默认关闭吧
+permalink: yhzb            #固定链接，默认关闭吧
 ---
 
 ## 中标项目统计
