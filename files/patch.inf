@@ -1,0 +1,281 @@
+[Patch_1]
+HASH = 00000000000000000000000000000000
+Version = 0.9.1
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.0-0.9.1.gmz
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.0-0.9.1.gmz
+
+[Patch_2]
+HASH = d78f00af1b20761d631613ec52836cd2
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.1-0.9.1.1.gmz
+Version = 0.9.1.1
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.1-0.9.1.1.gmz
+
+[Patch_3]
+HASH = ef34fe7d41a91ca5b58f16ab67f5bc56
+Version = 0.9.1.2
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.1.1-0.9.1.2.gmz
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.1.1-0.9.1.2.gmz
+
+[Patch_4]
+HASH = 09864997a068a196e13d8edf07afd304
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.1.2-0.9.2.gmz
+Version = 0.9.2
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.1.2-0.9.2.gmz
+
+[Patch_5]
+HASH = c573e9a9404739d1e3bf5b78e4e54613
+Version = 0.9.2.1
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.2-0.9.2.1.gmz
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.2-0.9.2.1.gmz
+
+[Patch_6]
+HASH = e3286abe3dfe1b71f1218e04d9ba49f4
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.2.1-0.9.2.2.gmz
+Version = 0.9.2.2
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.2.1-0.9.2.2.gmz
+
+[Patch_7]
+HASH = 14e4de6b5d6d1848eae83d87218f4a46
+Version = 0.9.2.3
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.2.2-0.9.2.3.gmz
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.2.2-0.9.2.3.gmz
+
+[Patch_8]
+HASH = 87fd14833388ec37b44b523f6d39be4b
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.2.3-0.9.3.gmz
+Version = 0.9.3
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.2.3-0.9.3.gmz
+
+[Patch_9]
+HASH = e983166fb95e4bc042afd70395d63b44
+Version = 0.9.3.1
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.3-0.9.3.1.gmz
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.3-0.9.3.1.gmz
+
+[Patch_10]
+HASH = 7a840842f7b0fd98f7989e65dac105f3
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.3.1-0.9.3.2.gmz
+Version = 0.9.3.2
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.3.1-0.9.3.2.gmz
+
+[Patch_11]
+HASH = eec7b39d1ecb507592030fe44d5f4d44
+Version = 0.9.4
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.3.2-0.9.4.gmz
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.3.2-0.9.4.gmz
+
+[Patch_12]
+HASH = cd6d5e5182589ceed5a45a02a2d2836b
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.4-0.9.5.gmz
+Version = 0.9.5
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.4-0.9.5.gmz
+
+[Patch_13]
+HASH = 6479c85d60ff53538491b0f903debb05
+Version = 0.9.5.1
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.5-0.9.5.1.gmz
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.5-0.9.5.1.gmz
+
+[Patch_14]
+HASH = a047415970592776840cbd45298a6bc2
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.5.1-0.9.5.2.gmz
+Version = 0.9.5.2
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.5.1-0.9.5.2.gmz
+
+[Patch_15]
+HASH = d7039b28dc7a9271d6baa182c2e3f936
+Version = 0.9.5.3
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.5.2-0.9.5.3.gmz
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.5.2-0.9.5.3.gmz
+
+[Patch_16]
+HASH = 6c4face4aad3aace9a951d154525d3d5
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.5.3-0.9.5.4.gmz
+Version = 0.9.5.4
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.5.3-0.9.5.4.gmz
+
+[Patch_17]
+HASH = 7d0a8c7ccf31c905ce8b4ad02ef03600
+Version = 0.9.5.5
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.5.4-0.9.5.5.gmz
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.5.4-0.9.5.5.gmz
+
+[Patch_18]
+HASH = e88071394697cb4b827086eba90e8817
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.5.5-0.9.5.6.gmz
+Version = 0.9.5.6
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.5.5-0.9.5.6.gmz
+
+[Patch_19]
+HASH = dadd0e83090765225ee6834d96e76e1b
+Version = 0.9.6
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.5.6-0.9.6.gmz
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.5.6-0.9.6.gmz
+
+[Patch_20]
+HASH = 32ccf1202494e51dc8fcfd2252b4336c
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.6-0.9.6.1.gmz
+Version = 0.9.6.1
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.6-0.9.6.1.gmz
+
+[Patch_21]
+HASH = bb917c57f3f58a38b23d2b4ab4d9d068
+Version = 0.9.6.2
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.6.1-0.9.6.2.gmz
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.6.1-0.9.6.2.gmz
+
+[Patch_22]
+HASH = bf537344f717b2239a211ef8c89a6dfd
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.6.2-0.9.6.3.gmz
+Version = 0.9.6.3
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.6.2-0.9.6.3.gmz
+
+[Patch_23]
+HASH = 77bdac109502eef2077c60e5808a9d8a
+Version = 0.9.6.4
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.6.3-0.9.6.4.gmz
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.6.3-0.9.6.4.gmz
+
+[Patch_24]
+HASH = 3b59830037beb7203596436eebb736b8
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.6.4-0.9.6.5.gmz
+Version = 0.9.6.5
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.6.4-0.9.6.5.gmz
+
+[Patch_25]
+HASH = 102b98c7c465c58f4e4ca687890d31c5
+Version = 0.9.6.6
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.6.5-0.9.6.6.gmz
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.6.5-0.9.6.6.gmz
+
+[Patch_26]
+HASH = 011c85fc563e3b56069898f4f5d8edb5
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.6.6-0.9.6.7.gmz
+Version = 0.9.6.7
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.6.6-0.9.6.7.gmz
+
+[Patch_27]
+HASH = 6767a179b6391c2657cb373b0e7c2003
+Version = 0.9.6.8
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.6.7-0.9.6.8.gmz
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.6.7-0.9.6.8.gmz
+
+[Patch_28]
+HASH = a83f8aaa2cad8f8b79593d8b3e4a490e
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.6.8-0.9.6.9.gmz
+Version = 0.9.6.9
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.6.8-0.9.6.9.gmz
+
+[Patch_29]
+HASH = 0876ded8aed80bf06b63b94f9f4883b4
+Version = 0.9.7
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.6.9-0.9.7.gmz
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.6.9-0.9.7.gmz
+
+[Patch_30]
+HASH = 22ddd3be2cc8d60a3d7a8ea265ed1d18
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.7-0.9.7.1.gmz
+Version = 0.9.7.1
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.7-0.9.7.1.gmz
+
+[Patch_31]
+HASH = b8fbbaf3a3d43fff3eb0d3f7ef4fbd8f
+Version = 0.9.7.2
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.7.1-0.9.7.2.gmz
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.7.1-0.9.7.2.gmz
+
+[Patch_32]
+HASH = 1ed2fe52169dd23d9c68455f60e7fbb2
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.7.2-0.9.8.gmz
+Version = 0.9.8
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.7.2-0.9.8.gmz
+
+[Patch_33]
+HASH = 1ab88d8885f390d6a4f3f0f19b978493
+Version = 0.9.8.1
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.8-0.9.8.1.gmz
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.8-0.9.8.1.gmz
+
+[Patch_34]
+HASH = ef2ad1dcbda9b537ffc54a23834be5f1
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.8.1-0.9.8.2.gmz
+Version = 0.9.8.2
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.8.1-0.9.8.2.gmz
+
+[Patch_35]
+HASH = 46343231569732872835e0e8cb3bfd14
+Version = 0.9.8.3
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.8.2-0.9.8.3.gmz
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.8.2-0.9.8.3.gmz
+
+[Patch_36]
+HASH = bd9729dfaa12d905d4b079b0c625f0f8
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.8.3-0.9.8.4.gmz
+Version = 0.9.8.4
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.8.3-0.9.8.4.gmz
+
+[Patch_37]
+HASH = 080099443fa6b92544a11b6c78664d00
+Version = 0.9.8.5
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.8.4-0.9.8.5.gmz
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.8.4-0.9.8.5.gmz
+
+[Patch_38]
+HASH = 92d98b374a76cccf0a967bc42d29f203
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.8.5-0.9.8.6.gmz
+Version = 0.9.8.6
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.8.5-0.9.8.6.gmz
+
+[Patch_39]
+HASH = fa50f566a4b7a3935481ece13f78b7c0
+Version = 0.9.8.7
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.8.6-0.9.8.7.gmz
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.8.6-0.9.8.7.gmz
+
+[Patch_40]
+HASH = e85576f129399a4d74867c9da2a91cf8
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.8.7-0.9.8.8.gmz
+Version = 0.9.8.8
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.8.7-0.9.8.8.gmz
+
+[Patch_41]
+HASH = 409d7e74fb039c2cb2b744b0b9cfaeab
+Version = 0.9.8.9
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.8.8-0.9.8.9.gmz
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.8.8-0.9.8.9.gmz
+
+[Patch_42]
+HASH = cc15c207df503745dbacf894eb1702d8
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.8.9-0.9.8.10.gmz
+Version = 0.9.8.10
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.8.9-0.9.8.10.gmz
+
+[Patch_43]
+HASH = bcfe7931cb8b7966e061004078c3f44b
+Version = 0.9.8.11
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.8.10-0.9.8.11.gmz
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.8.10-0.9.8.11.gmz
+
+[Patch_44]
+HASH = 0fa40eef1415bcc6f90bf850fcb43a14
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.8.11-0.9.8.12.gmz
+Version = 0.9.8.12
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.8.11-0.9.8.12.gmz
+
+[Patch_45]
+HASH = 90e91782b772b178028228a0b707dff2
+Version = 0.9.8.13
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.8.12-0.9.8.13.gmz
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.8.12-0.9.8.13.gmz
+
+[Patch_46]
+HASH = c2606b888d889061e20da3607356fe58
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.8.13-0.9.8.14.gmz
+Version = 0.9.8.14
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.8.13-0.9.8.14.gmz
+
+[Patch_47]
+HASH = bde0e2e95b54c1e938338e4f79b42cef
+Version = 0.9.8.15
+HTTP_URL = http://gy2.joyegame.com/patchs/gycs-0.9.8.14-0.9.8.15.gmz
+BT_URL = http://gy2.joyegame.com/patchs/gycs-0.9.8.14-0.9.8.15.gmz
